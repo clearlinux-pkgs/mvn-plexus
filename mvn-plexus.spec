@@ -4,7 +4,7 @@
 #
 Name     : mvn-plexus
 Version  : 1.0.10
-Release  : 4
+Release  : 5
 URL      : https://github.com/codehaus-plexus/plexus-pom/archive/plexus-1.0.10.tar.gz
 Source0  : https://github.com/codehaus-plexus/plexus-pom/archive/plexus-1.0.10.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3/plexus-components-1.3.pom
